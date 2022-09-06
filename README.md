@@ -1,2 +1,3 @@
 # JogoImparPar.py
- Jogue "Ímpar ou Par" contra o computador. 
+ 
+🤖 Jogue "Ímpar ou Par" contra o computador. 
