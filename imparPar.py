@@ -6,10 +6,10 @@ mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
 import random
 
 # Título do Jogo
-print('='*50)
+print('=' * 50)
 msg = 'Ímpar ou Par? O Desafio'
 print(f'{msg:^50}')
-print('='*50)
+print('=' * 50)
 
 vitorias = 0
 
