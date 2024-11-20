@@ -38,7 +38,7 @@ while True:
             print("Você venceu!")
             vitorias += 1
         else:
-            print("Você perdeu")
+            print("Você perdeu...")
             # Exibição das escolhas caso derrota
             print(f"Computador:{computador} jogador:{jogador} Resultado:{resultado}")
             break
